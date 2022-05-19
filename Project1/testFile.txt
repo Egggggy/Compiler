@@ -1,0 +1,1 @@
+if speed > 3.05 then error = 1 else error = 0
